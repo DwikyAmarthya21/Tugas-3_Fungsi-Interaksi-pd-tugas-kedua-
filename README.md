@@ -1,2 +1,2 @@
-# Tugas-3_Fungsi-Interaksi-pd-tugas-kedua-
+# Tugas3_GUI_Fungsi_Interaksi_Pd_Tugas2
 Dwiky Amarthya Ramadhan-19201152
